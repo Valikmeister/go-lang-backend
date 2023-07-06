@@ -18,12 +18,26 @@ The purpose of this codebase is to provide a strong MVC Restful ORM API foundati
 
   Documentation: https://pkg.go.dev/github.com/stretchr/testify?utm_source=godoc
 
-- pgx
-  > PostgreSQL driver and toolkit for Go
+- gorm pgx driver
+  > GORM PostgreSQL driver 
 
-  Documentation: https://github.com/jackc/pgx/wiki/Getting-started-with-pgx
+  Documentation: https://gorm.io/docs/connecting_to_the_database.html#PostgreSQL
 
 - gorm
   > The fantastic ORM library for Golang, aims to be developer friendly
 
   Documentation: https://gorm.io/docs/
+
+
+## Project Initialization 
+
+Clone the repository
+
+```
+git clone https://github.com/Valikmeister/go-lang-backend
+```
+& Run
+
+```
+go mod download
+```
