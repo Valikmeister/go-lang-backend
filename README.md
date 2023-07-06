@@ -34,7 +34,7 @@ The purpose of this codebase is to provide a strong MVC Restful ORM API foundati
 Clone the repository
 
 ```
-git clone https://github.com/Valikmeister/go-lang-backend
+git clone https://github.com/Valikmeister/go-lang-backend.git
 ```
 & Run
 
