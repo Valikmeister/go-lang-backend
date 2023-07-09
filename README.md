@@ -28,6 +28,11 @@ The purpose of this codebase is to provide a strong MVC Restful ORM API foundati
 
   Documentation: https://gorm.io/docs/
 
+- golang-jwt
+  > A production ready go implementation of JSON Web Tokens.
+
+  Documentation: https://pkg.go.dev/github.com/golang-jwt/jwt/v5#pkg-overview
+
 
 ## Project Initialization 
 
