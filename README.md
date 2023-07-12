@@ -46,3 +46,12 @@ git clone https://github.com/Valikmeister/go-lang-backend.git
 ```
 go mod download
 ```
+
+## How to run the project locally 
+
+Inside the /app directory run
+
+```
+go run main.go
+```
+It will start a server on localhost at port 3000
