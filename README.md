@@ -28,7 +28,10 @@ The purpose of this codebase is to provide a strong MVC Restful ORM API foundati
 
   Documentation: https://gorm.io/docs/
   
-
+- golang-jwt
+  > Go lang implementation of the JSON token
+  
+  Documentation: https://golang-jwt.github.io/jwt/usage/create/
 
 
 
